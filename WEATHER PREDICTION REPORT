@@ -1,0 +1,20 @@
+A data is a bunch of data.that corresponds one or more tables. where every column of a table represents a particular table.
+In this module we get a prediction about weather seattle.
+we analyse the weather seatle data set and predict about the precipitation and minimum temperature.
+In this module we predict the weather whenever the condensation of atmospheric water vapour that falls pull gravitational from clouds.
+minimum temperature difference is a measure of assesing the perfomance modulation of lower temperature like snow,rain,fog.
+We describe the precipitation include drizzle,rain,snow,sun and fog.
+In this data set we get a dependent dataset values as Minimum temperature,and independent dataset values as precipitation.
+we are using jupyter tool for making this miniproject this tool is very user friendly and intuitive implement in python to communicate with the user.
+To perform analysis for a particular resource and we display some graphs. to differ the dependent and independent values of analysis.
+a dependent variable is the variable that changes as a result of the independent variable manipulation.
+this outcome and measuring and it depends on our independent values.
+An independent variable is exactly a variable that stand alone is not changed by other variable you are trying to measure.
+linear regression analysis is usedto predict the value of a variable based on the value of another variable.
+finally we will describe all our reports and charts and the codes
+thanking you!
+submitted by
+M.MOHAMED RIYAS
+K.BUVANI
+S.SWETHA
+T.SUVETHA
